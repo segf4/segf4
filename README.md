@@ -11,7 +11,7 @@
       About me:
       • he/him, Brazilian 🇧🇷
       • 18y, cybersecurity enthusiast
-      • future low-level dev (C, ASM)
+      • dev (C, ASM)
       • pt-br / basic en
 
       Langs
