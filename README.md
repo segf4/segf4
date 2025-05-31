@@ -1,16 +1,27 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/segf4/JznK/main/elliot.gif" alt="Elliot Alderson" width="180"/>
+    </td>
+    <td>
+      <sub>
+      <b>Hi! I'm a Brazilian cybersecurity enthusiast focused on low-level programming and operating systems.</b><br>
+      I'm currently learning C and assembly, with experience using various Linux distributions and Windows. Welcome to my profile!<br><br>
 
-<!--
-**segf4/segf4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      About me:
+      • he/him, Brazilian 🇧🇷
+      • 18y, cybersecurity enthusiast
+      • future low-level dev (C, ASM)
+      • pt-br / basic en
 
-Here are some ideas to get you started:
+      Langs
+      • C (main)
+      • learning ASM / Java soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      OS
+      • mostly Win10
+      • used: Kali, Ubuntu, Mint, BigLinux
+     
+    
+  </tr>
+</table>
