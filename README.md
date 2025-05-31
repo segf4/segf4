@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/segf4/JznK/main/00001001.gif" alt="Elliot Alderson" width="180"/>
+      <img src="https://raw.githubusercontent.com/segf4/segf4/main/00001001.gif" alt="Elliot Alderson" width="180"/>
     </td>
     <td>
       <sub>
