@@ -22,7 +22,12 @@
       • mostly Win10
       • experienced with: Void Linux, Arch Linux, Debian, Alpine Linux, Kali Linux
       • exploring: NixOS, Gentoo, OpenBSD
-     
+      
+### Socials
+
+- Instagram: [@jerez1n](https://instagram.com/jerez1n)  
+- Discord: `Nothing...#5519`  
+
     
   </tr>
 </table>
