@@ -20,7 +20,8 @@
 
       OS
       • mostly Win10
-      • used: Kali, Ubuntu, Mint, BigLinux
+      • experienced with: Void Linux, Arch Linux, Debian, Alpine Linux, Kali Linux
+      • exploring: NixOS, Gentoo, OpenBSD
      
     
   </tr>
