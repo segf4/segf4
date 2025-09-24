@@ -5,28 +5,28 @@
     </td>
     <td>
       <sub>
-        <b>Hi! I'm a Brazilian cybersecurity enthusiast focused on low-level programming and operating systems.</b><br>
-        I'm currently learning C and assembly, with experience using various Linux distributions and Windows.<br><br>
+      <b>Hi! I'm a Brazilian cybersecurity enthusiast focused on low-level programming and operating systems.</b><br>
+      I'm currently learning C and assembly, with experience using various Linux distributions and Windows. Welcome to my profile!<br><br>
 
-        <b>About me:</b><br>
-        • he/him, Brazilian 🇧🇷<br>
-        • 18y, cybersecurity enthusiast<br>
-        • dev (C, ASM)<br>
-        • pt-br / basic en<br><br>
+      About me:
+      • he/him, Brazilian 🇧🇷
+      • 18y, cybersecurity enthusiast
+      • dev (C, ASM)
+      • pt-br / basic en
 
-        <b>Languages:</b><br>
-        • C (main)<br>
-        • learning ASM / Java soon<br><br>
+      Langs
+      • C (main)
+      • learning ASM / Java soon
 
-        <b>Operating Systems:</b><br>
-        • mostly Win10<br>
-        • experienced with: Void Linux, Arch Linux, Debian, Alpine Linux, Kali Linux<br>
-        • exploring: NixOS, Gentoo, OpenBSD<br><br>
+      OS
+      • mostly Win10
+      • experienced with: Void Linux, Arch Linux, Debian, Alpine Linux, Kali Linux
+      • exploring: NixOS, Gentoo, OpenBSD
+      
+### Socials
 
-        <b>Socials:</b><br>
-        • Instagram: <a href="https://instagram.com/jerez1n">@jerez1n</a><br>
-        • Discord: <code>Nothing...#5519</code>
-      </sub>
-    </td>
+- Instagram: [@jerez1n](https://instagram.com/jerez1n)  
+- Discord: `.uintptr_t` (previously `Nothing...#5519`)
+    
   </tr>
 </table>
