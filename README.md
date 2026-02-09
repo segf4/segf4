@@ -6,7 +6,7 @@ Core languages include C.
 Proficient with system environments running Windows and various Linux distributions (Void, Arch, Debian, Alpine, Kali).
 Deep interest in hardware interaction and core system architecture.
 
-Instagram: [@jerez1n.dev](https://instagram.com/jerez1n)  
+Instagram: [@jerez1n.dev](https://www.instagram.com/jerez1n.dev?igsh=MWw4OGVyM2o3dmMyNw%3D%3D&utm_source=qr)
     
   </tr>
 </table>
